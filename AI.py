@@ -1,4 +1,3 @@
-#BY::CEBASTIAN SANTIAGO AND DANIEL
 ############### CS480 AI Project 1################
 #Modified Program about the Queens problem 
 #Placement  on a chessboard
